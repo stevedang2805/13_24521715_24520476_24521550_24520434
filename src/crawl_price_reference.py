@@ -1,10 +1,4 @@
-# -*- coding: utf-8 -*-
 """
-crawl_mogi_type_aware_lower.py
-==============================
-
-Bản đúng theo phương án đã bàn:
-
 Crawl bộ giá tham chiếu Mogi:
     m         = giá trung bình quận/huyện từ TRANG CHUNG Mogi
     apartment = giá Căn hộ từ trang quận/huyện
