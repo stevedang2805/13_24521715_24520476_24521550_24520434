@@ -1,0 +1,26 @@
+# Data files lớn — không push lên GitHub
+mogi_clean.csv
+mogi_labeled.csv
+mogi_model_input.csv
+*.csv
+!data/price_ref_hcm_hn_mogi.csv
+
+# Results — tự sinh khi chạy
+results/
+figures/
+*.txt
+*.checkpoint.json
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db

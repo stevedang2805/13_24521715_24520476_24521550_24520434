@@ -1,0 +1,52 @@
+﻿province,district,district_key,median,trend,apartment,land,l_house_unknown,m,h,f,url
+tp ho chi minh,Quận 1,quan 1,406,"3,5% ▲",131,12.3,12.3,406,213,523,https://mogi.vn/gia-nha-dat-quan-1-qd363
+tp ho chi minh,Quận 2 (TP. Thủ Đức),quan 2 tp thu uc,125,"0,1% ▲",63.4,115,63.4,125,49,178,https://mogi.vn/gia-nha-dat-quan-2-qd367
+tp ho chi minh,Quận 3,quan 3,257,"0,2% ▲",55.2,213,55.2,257,175,385,https://mogi.vn/gia-nha-dat-quan-3-qd368
+tp ho chi minh,Quận 4,quan 4,55.2,"10,3% ▼",51.6,27.9,27.9,55.2,52.2,72.9,https://mogi.vn/gia-nha-dat-quan-4-qd369
+tp ho chi minh,Quận 5,quan 5,258,"0,1% ▼",66.6,29.5,29.5,258,133,335,https://mogi.vn/gia-nha-dat-quan-5-qd370
+tp ho chi minh,Quận 6,quan 6,102,"0,5% ▲",36.7,46.1,36.7,102,72.5,164,https://mogi.vn/gia-nha-dat-quan-6-qd371
+tp ho chi minh,Quận 7,quan 7,89.6,"1,9% ▼",43.9,102,43.9,89.6,78.5,128,https://mogi.vn/gia-nha-dat-quan-7-qd372
+tp ho chi minh,Quận 8,quan 8,83.7,"7,6% ▼",36.7,35.6,35.6,83.7,83.1,107,https://mogi.vn/gia-nha-dat-quan-8-qd373
+tp ho chi minh,Quận 9 (TP. Thủ Đức),quan 9 tp thu uc,56.2,"7,1% ▲",41.4,50.3,41.4,56.2,52.6,84,https://mogi.vn/gia-nha-dat-quan-9-qd374
+tp ho chi minh,Quận 10,quan 10,228,"0,3% ▼",61.4,65.5,61.4,228,167,299,https://mogi.vn/gia-nha-dat-quan-10-qd364
+tp ho chi minh,Quận 11,quan 11,142,"0,7% ▲",36.6,49.9,36.6,142,123,180,https://mogi.vn/gia-nha-dat-quan-11-qd365
+tp ho chi minh,Quận 12,quan 12,56.7,"0,8% ▼",34.1,36,34.1,56.7,61.6,81.4,https://mogi.vn/gia-nha-dat-quan-12-qd366
+tp ho chi minh,Quận Bình Tân,quan binh tan,78.9,"0,1% ▲",33.1,52.2,33.1,78.9,77,95.8,https://mogi.vn/gia-nha-dat-quan-binh-tan-qd375
+tp ho chi minh,Quận Bình Thạnh,quan binh thanh,138,2% ▲,51.2,91.6,51.2,138,123,192,https://mogi.vn/gia-nha-dat-quan-binh-thanh-qd376
+tp ho chi minh,Quận Gò Vấp,quan go vap,102,"0,1% ▲",33.3,76.3,33.3,102,95.7,128,https://mogi.vn/gia-nha-dat-quan-go-vap-qd377
+tp ho chi minh,Quận Phú Nhuận,quan phu nhuan,175,6% ▼,48.6,43.9,43.9,175,141,253,https://mogi.vn/gia-nha-dat-quan-phu-nhuan-qd378
+tp ho chi minh,Quận Tân Bình,quan tan binh,144,"0,6% ▼",38.4,77.6,38.4,144,121,195,https://mogi.vn/gia-nha-dat-quan-tan-binh-qd379
+tp ho chi minh,Quận Tân Phú,quan tan phu,98.8,"2,1% ▼",36.6,67.8,36.6,98.8,97.8,135,https://mogi.vn/gia-nha-dat-quan-tan-phu-qd380
+tp ho chi minh,Quận Thủ Đức (TP. Thủ Đức),quan thu uc tp thu uc,71.1,"2,3% ▲",46.1,64.2,46.1,71.1,71.3,85.4,https://mogi.vn/gia-nha-dat-quan-thu-duc-qd381
+tp ho chi minh,Huyện Bình Chánh,huyen binh chanh,20.2,"7,4% ▼",26.5,15.5,15.5,20.2,27.8,22.5,https://mogi.vn/gia-nha-dat-huyen-binh-chanh-qd358
+tp ho chi minh,Huyện Cần Giờ,huyen can gio,18.2,"2,7% ▲",5.9,18.2,5.9,18.2,29.9,29.9,https://mogi.vn/gia-nha-dat-huyen-can-gio-qd359
+tp ho chi minh,Huyện Củ Chi,huyen cu chi,8.7,"8,2% ▼",2.8,8.3,2.8,8.7,15,23.6,https://mogi.vn/gia-nha-dat-huyen-cu-chi-qd360
+tp ho chi minh,Huyện Hóc Môn,huyen hoc mon,26.9,"6,1% ▼",18.8,20.5,18.8,26.9,29.4,30.5,https://mogi.vn/gia-nha-dat-huyen-hoc-mon-qd361
+tp ho chi minh,Huyện Nhà Bè,huyen nha be,59.8,"1,4% ▲",35,38.2,35,59.8,68.3,77.3,https://mogi.vn/gia-nha-dat-huyen-nha-be-qd362
+ha noi,Quận Ba Đình,quan ba inh,207,—,28.2,112,28.2,207,143,332,https://mogi.vn/gia-nha-dat-quan-ba-dinh-qd289
+ha noi,Quận Cầu Giấy,quan cau giay,214,"4,9% ▲",35.2,155,35.2,214,160,318,https://mogi.vn/gia-nha-dat-quan-cau-giay-qd290
+ha noi,Quận Đống Đa,quan ong a,192,"3,4% ▼",33.5,218,33.5,192,140,294,https://mogi.vn/gia-nha-dat-quan-dong-da-qd291
+ha noi,Quận Hai Bà Trưng,quan hai ba trung,214,"2,1% ▲",38.8,298,38.8,214,120,369,https://mogi.vn/gia-nha-dat-quan-hai-ba-trung-qd292
+ha noi,Quận Hoàn Kiếm,quan hoan kiem,579,"4,2% ▲",71.7,587,71.7,579,189,641,https://mogi.vn/gia-nha-dat-quan-hoan-kiem-qd293
+ha noi,Quận Hoàng Mai,quan hoang mai,112,8% ▲,31.7,77.5,31.7,112,101,151,https://mogi.vn/gia-nha-dat-quan-hoang-mai-qd294
+ha noi,Quận Long Biên,quan long bien,114,"7,2% ▲",27.8,87.1,27.8,114,110,154,https://mogi.vn/gia-nha-dat-quan-long-bien-qd295
+ha noi,Quận Tây Hồ,quan tay ho,213,"10,4% ▲",37.5,136,37.5,213,147,308,https://mogi.vn/gia-nha-dat-quan-tay-ho-qd296
+ha noi,Quận Thanh Xuân,quan thanh xuan,165,"3,5% ▲",39.5,98.2,39.5,165,131,250,https://mogi.vn/gia-nha-dat-quan-thanh-xuan-qd297
+ha noi,Quận Hà Đông,quan ha ong,114,6% ▲,20.6,79.5,20.6,114,96.9,152,https://mogi.vn/gia-nha-dat-quan-ha-dong-qd745
+ha noi,Quận Bắc Từ Liêm,quan bac tu liem,91.7,"3,1% ▲",33.8,72.9,33.8,91.7,99.5,145,https://mogi.vn/gia-nha-dat-quan-bac-tu-liem-qd754
+ha noi,Quận Nam Từ Liêm,quan nam tu liem,113,"1,3% ▲",33.3,72.3,33.3,113,104,177,https://mogi.vn/gia-nha-dat-quan-nam-tu-liem-qd755
+ha noi,Huyện Mê Linh,huyen me linh,27.5,"11,5% ▼",8.9,27.5,8.9,27.5,25.5,38.9,https://mogi.vn/gia-nha-dat-huyen-me-linh-qd729
+ha noi,Huyện Ba Vì,huyen ba vi,4,—,1.3,4,1.3,4,3.7,5.7,https://mogi.vn/gia-nha-dat-huyen-ba-vi-qd298
+ha noi,Huyện Chương Mỹ,huyen chuong my,22.4,"15,4% ▲",7.2,20.9,7.2,22.4,37,31.7,https://mogi.vn/gia-nha-dat-huyen-chuong-my-qd299
+ha noi,Huyện Đan Phượng,huyen an phuong,57.8,"18,7% ▼",19.4,33.9,19.4,57.8,53.6,86.9,https://mogi.vn/gia-nha-dat-huyen-dan-phuong-qd300
+ha noi,Huyện Hoài Đức,huyen hoai uc,65.2,"3,3% ▼",14.1,56.4,14.1,65.2,62.3,83.2,https://mogi.vn/gia-nha-dat-huyen-hoai-duc-qd301
+ha noi,Huyện Phúc Thọ,huyen phuc tho,29.3,74% ▲,9.5,29.3,9.5,29.3,27.2,41.4,https://mogi.vn/gia-nha-dat-huyen-phuc-tho-qd304
+ha noi,Huyện Quốc Oai,huyen quoc oai,15.7,"35,8% ▼",5.1,15.7,5.1,15.7,14.6,22.2,https://mogi.vn/gia-nha-dat-huyen-quoc-oai-qd305
+ha noi,Huyện Thạch Thất,huyen thach that,18.3,"9,5% ▲",5.9,18.3,5.9,18.3,17,25.9,https://mogi.vn/gia-nha-dat-huyen-thach-that-qd306
+ha noi,Huyện Thanh Oai,huyen thanh oai,39.2,"49,8% ▲",12.6,31.3,12.6,39.2,47.2,55.4,https://mogi.vn/gia-nha-dat-huyen-thanh-oai-qd307
+ha noi,Huyện Thường Tín,huyen thuong tin,23.4,"4,5% ▼",7.6,23.4,7.6,23.4,21.7,33.1,https://mogi.vn/gia-nha-dat-huyen-thuong-tin-qd308
+ha noi,Thị Xã Sơn Tây,thi xa son tay,11.9,"98,1% ▲",3.8,11.9,3.8,11.9,11,16.8,https://mogi.vn/gia-nha-dat-thi-xa-son-tay-qd311
+ha noi,Huyện Đông Anh,huyen ong anh,41.8,"0,2% ▼",23.7,41.2,23.7,41.8,48.8,71.4,https://mogi.vn/gia-nha-dat-huyen-dong-anh-qd284
+ha noi,Huyện Gia Lâm,huyen gia lam,56.1,"15,4% ▼",16.9,46.2,16.9,56.1,66,123,https://mogi.vn/gia-nha-dat-huyen-gia-lam-qd285
+ha noi,Huyện Sóc Sơn,huyen soc son,18.4,"46,7% ▼",5.9,18.4,5.9,18.4,17.1,26,https://mogi.vn/gia-nha-dat-huyen-soc-son-qd286
+ha noi,Huyện Thanh Trì,huyen thanh tri,86.3,"6,5% ▲",30.1,63.3,30.1,86.3,93.7,122,https://mogi.vn/gia-nha-dat-huyen-thanh-tri-ha-noi-qd287
